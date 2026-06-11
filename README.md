@@ -25,6 +25,6 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Installation
 
-1. Download your preferred variant from themes and copy into the `~/.config/micro/colorschemes` directory
+1. Download your preferred variant from [themes](themes) and copy into the `~/.config/micro/colorschemes` directory
 2. Pass the environment variable `MICRO_TRUECOLOR=1` to micro
 3. Start micro and press <kbd>Ctrl</kbd>+<kbd>e</kbd>, then type `set colorscheme eldritch-cthulhu` (`abyss` or `dusk` respectively) and press <kbd>Enter</kbd>
