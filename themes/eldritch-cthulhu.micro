@@ -6,24 +6,27 @@ color-link comment "#7081d0"
 color-link selection "#ebfafa,#323449"
 color-link hlsearch "#212337,#f7c67f"
 
-color-link identifier "#f16c75"
+color-link identifier "#04d1f9"
 color-link identifier.class "#f7c67f"
-color-link identifier.var "#f16c75"
+color-link identifier.var "#04d1f9"
 
-color-link constant "#37f499"
+color-link constant "#f16c75"
 color-link constant.number "#f7c67f"
 color-link constant.string "#f1fc79"
+color-link constant.string.url "#04d1f9"
+color-link constant.specialChar "#f7c67f"
 
-color-link symbol "#f265b5"
+color-link symbol "#ebfafa"
 color-link symbol.brackets "#ebfafa"
+color-link symbol.operator "#37f499"
 color-link symbol.tag "#04d1f9"
 
 color-link type "#f7c67f"
 color-link type.keyword "#37f499"
 
-color-link special "#f265b5"
-color-link statement "#a48cf2"
+color-link special "#a48cf2"
 color-link preproc "#f265b5"
+color-link statement "#a48cf2"
 
 color-link underlined "#04d1f9"
 color-link error "bold #f16c75"

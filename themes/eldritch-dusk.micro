@@ -6,30 +6,33 @@ color-link comment "#5b73dc"
 color-link selection "#1e2029,#e2e6e8"
 color-link hlsearch "#f0f3f4,#ffaf4d"
 
-color-link identifier "#fb5b66"
+color-link identifier "#0ad6ff"
 color-link identifier.class "#ffaf4d"
-color-link identifier.var "#fb5b66"
+color-link identifier.var "#5b73dc"
 
-color-link constant "#8a69f7"
+color-link constant "#fb5b66"
 color-link constant.number "#ffaf4d"
 color-link constant.string "#ffaf4d"
+color-link constant.string.url "#0ad6ff"
+color-link constant.specialChar "#ffaf4d"
 
-color-link symbol "#fb5bb6"
+color-link symbol "#1e2029"
 color-link symbol.brackets "#1e2029"
-color-link symbol.tag "#5b73dc"
+color-link symbol.operator "#fb5bb6"
+color-link symbol.tag "#0ad6ff"
 
 color-link type "#ffaf4d"
-color-link type.keyword "#8a69f7"
+color-link type.keyword "#fb5bb6"
 
-color-link special "#fb5bb6"
-color-link statement "#8a69f7"
+color-link special "#8a69f7"
 color-link preproc "#fb5bb6"
+color-link statement "#8a69f7"
 
-color-link underlined "#5b73dc"
+color-link underlined "#0ad6ff"
 color-link error "bold #fb5b66"
 color-link todo "bold #8a69f7"
 
-color-link diff-added "#8a69f7"
+color-link diff-added "#38ff9f"
 color-link diff-modified "#5b73dc"
 color-link diff-deleted "#fb5b66"
 
